@@ -1,6 +1,7 @@
 class CartsController < ApplicationController
 
   def show
+    flash[:error] =  "Cart is Empty" #if enhanced_cart.count == 0 
   end
 
   def add_item
