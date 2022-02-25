@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 that allows visitors to browse products, add them to their cart and checkout. A visitor can sign up and login and add items to their cart and checkout.
 
 ## Additional Steps for Apple M1 Machines
 
@@ -31,3 +31,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+!["Shop"] ()
