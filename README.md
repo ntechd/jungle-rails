@@ -33,4 +33,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Stripe
 
 ## Screenshots
-!["Shop"] ()
+!["Shop"] (https://github.com/ntechd/jungle-rails/blob/master/docs/home_page.png)
+![""] (https://github.com/ntechd/jungle-rails/blob/master/docs/cart.png)
+![""] (https://github.com/ntechd/jungle-rails/blob/master/docs/error.png)
+![""] (https://github.com/ntechd/jungle-rails/blob/master/docs/order_placed.png)
