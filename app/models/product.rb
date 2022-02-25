@@ -11,6 +11,7 @@ class Product < ActiveRecord::Base
   validates :category, presence: true
   
   scope :total_product_count, -> { Product.count }
+  scope :product_count_by_category, ->(id) { where(category_id: id).count }
   scope :sold_out?, ->(id) { where(id: id).first }
 
 end
