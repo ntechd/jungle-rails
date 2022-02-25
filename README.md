@@ -33,7 +33,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Stripe
 
 ## Screenshots
-!["Shop"] (https://github.com/ntechd/jungle-rails/blob/master/docs/home_page.png)
-![""] (https://github.com/ntechd/jungle-rails/blob/master/docs/cart.png)
-![""] (https://github.com/ntechd/jungle-rails/blob/master/docs/error.png)
-![""] (https://github.com/ntechd/jungle-rails/blob/master/docs/order_placed.png)
+!["Shop"](https://github.com/ntechd/jungle-rails/blob/master/docs/home_page.png)
+!["Cart"](https://github.com/ntechd/jungle-rails/blob/master/docs/cart.png)
+!["Error"](https://github.com/ntechd/jungle-rails/blob/master/docs/error.png)
+!["Order Placed"](https://github.com/ntechd/jungle-rails/blob/master/docs/order_placed.png)
